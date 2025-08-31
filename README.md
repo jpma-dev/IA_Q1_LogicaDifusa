@@ -67,10 +67,10 @@ En la siguiente figura se presenta el resultado final del sistema, luego de ingr
 *Figura 5. Pantallazo de resultado final del sistema*  
 
 El código de la aplicación construida puede ser accedido en el siguiente repositorio de GitHub:  
-👉 [URL del repositorio]  
+👉 https://github.com/jpma-dev/IA_Q1_LogicaDifusa  
 
 La aplicación en funcionamiento puede verse en el siguiente video:  
-👉 [URL del video en YouTube]  
+👉 https://youtube.com/shorts/2f3Y4253Exs?feature=share
 
 ---
 
